@@ -1,8 +1,8 @@
 {
   "date": "2025-10-29",
-  "contributionLevel": 3,
+  "contributionLevel": 1,
   "sequence": 1,
-  "totalForDay": 6,
+  "totalForDay": 1,
   "timezone": "UTC",
   "generatedBy": "green-git"
 }
